@@ -1,1 +1,1 @@
-YO! This readme is great!
+YO! This readme is awesome!
